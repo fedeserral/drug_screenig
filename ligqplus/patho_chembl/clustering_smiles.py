@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Sep  2 10:20:51 2021
 
-@author: fleer
-"""
 from rdkit import Chem
 from rdkit.Chem import AllChem
 from rdkit.Chem import DataStructs
