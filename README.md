@@ -14,7 +14,7 @@ $ conda create --name drug_screening
 ```
 $ conda activate drug_screening
 ```
-Once in the ligQ plus environment install:
+Once in the drug_screening environment install:
 ```
 $ conda install -c bioconda blast
 $ pip install urllib3==1.25.8
