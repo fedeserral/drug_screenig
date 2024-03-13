@@ -53,6 +53,10 @@ The [ChEMBL](https://www.ebi.ac.uk/chembl/) database can be at least 20gb in siz
 ```
 $ wget ftp://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLdb/#last_version#/
 ```
+```
+$ Descompress pfam_mech_28.zip and pfam_assay_28.zip files-
+```
+
 ### Mapping pfam-pdb and pdb-ligands
 The pdb_pfam_mapping.txt file contains information about the PFAM domains (start/end positions) of each of the protein structures deposited in the PDB.
 
