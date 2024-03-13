@@ -1,4 +1,4 @@
-# ligQplus
+# Drug screening
 Massive compound screening for pathogenic proteomes.
 
 ## Work scheme
