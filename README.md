@@ -51,6 +51,7 @@ The [ChEMBL](https://www.ebi.ac.uk/chembl/) database can be at least 20gb in siz
 > Note: The stable version for this pipeline is ChEMBL 28. If you want to use it another version of this database, please let us know us if you have any issues. 
 
 ```
+$ wget ftp://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLdb/#last_version#/
 ```
 ### Mapping pfam-pdb and pdb-ligands
 The pdb_pfam_mapping.txt file contains information about the PFAM domains (start/end positions) of each of the protein structures deposited in the PDB.
