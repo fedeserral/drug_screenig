@@ -5,17 +5,14 @@ Massive compound screening for pathogenic proteomes.
 
   In order to carry out this pipeline, the first thing to do is create a conda environment where you can install a series of necessary packages. See here more information about [Anaconda](https://www.anaconda.com/download/). In addition, it is necessary to have a version of python 3 at least.
   
-### Download and pre-requisites 
-```
-$ git clone https://github.com/BIAlabIC/ligQplus.git
-```
+
 ### Create execution environment:
 ```
-$ conda create --name ligQ_plus
+$ conda create --name drug_screening
 ```
 ### Activate environment
 ```
-$ conda activate ligQ_plus
+$ conda activate drug_screening
 ```
 Once in the ligQ plus environment install:
 ```
