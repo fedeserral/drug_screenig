@@ -52,9 +52,7 @@ The [ChEMBL](https://www.ebi.ac.uk/chembl/) database can be at least 20gb in siz
 
 ```
 $ wget ftp://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLdb/#last_version#/
-```
-```
-$ Descompress pfam_mech_28.zip and pfam_assay_28.zip files-
+> Note: Descompress pfam_mech_28.zip and pfam_assay_28.zip files-
 ```
 
 ### Mapping pfam-pdb and pdb-ligands
